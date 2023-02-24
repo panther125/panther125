@@ -13,7 +13,6 @@
   <a href="https://gitee.com/panther125/"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-red"></a>&emsp;
   <a href="https://www.cnblogs.com/panther9985/"><img src="https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2%E5%9B%AD-orange"></a>&emsp;
   <a href="http://wpa.qq.com/msgrd?v=3&uin=2392189963&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-%E8%81%94%E7%B3%BB-brightgreen"></a>&emsp;
-  <a href="https://blog.csdn.net/qq_60750453"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/322993153"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp; 
 <!--   <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp; -->
 <!-- 访客数统计徽标 -->
