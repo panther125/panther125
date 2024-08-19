@@ -9,20 +9,18 @@
 
 # 🙋 Hi！Welcome to my world.
 
-👋 <p>
+👋<img align='right' src='https://image.gincode.icu/file/e687c4ac42ce8d6a7ad01.png' width="30%">
 
-&nbsp;&nbsp;✍️大家好，我是琴酒! 前后端开发，小白程序员一枚。</br>
+- &nbsp;&nbsp;✍️大家好，我是琴酒! 前后端开发，小白程序员一枚。</br>
 
- &nbsp;🌟ICPC铜牌选手，热爱算法，代码,喜欢折腾博客记录自己得成长与思考。</br>
+- &nbsp;🌟ICPC铜牌选手，热爱算法，代码,喜欢折腾博客记录自己得成长与思考。</br>
 
-&nbsp; 💾生活不能只有技术，闲暇时热衷于拍照，健身，旅游，走进世界🌏才能明白世界的真相。
+- &nbsp; 💾生活不能只有技术，闲暇时热衷于拍照，健身，旅游，走进世界🌏才能明白世界的真相。
 
-</p>
 
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;我开始的刚刚好，不算太迟，也不算太早，我的故事还在慢慢继续......</p>
-
 <!-- 个人资料徽标 -->
 
 <div align="center">
