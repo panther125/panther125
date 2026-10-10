@@ -4,13 +4,13 @@
 
 独立开发者 · 全栈工程师 · AI 工具作者
 
-📍 杭州 · [blog.gincode.icu](https://blog.gincode.icu)
+📍 杭州
 
 > 满堂花醉三千客，一剑霜寒十四州。
 
 </div>
 
-<img align="right" src="https://image.gincode.icu/file/e687c4ac42ce8d6a7ad01.png" width="30%">
+<img align="right" src="https://avatars.githubusercontent.com/u/81942584?v=4" width="30%">
 
 - 🛠&ensp;**独立开发者**，正在做 AI 时代的效率工具：把散落各处的 Skill 收拢管理、给 CLI 装上 agent 能力
 - 💻&ensp;**全栈**：Java / Spring Boot 后端 + Vue / TypeScript 前端，独立交付过 OJ 判题系统、智能 BI 平台
@@ -34,16 +34,7 @@
 
 ## 🧰 技术栈 · Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?logo=vuedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
 ## 📊 GitHub 数据 · All-time
 
@@ -52,7 +43,6 @@
 ## 🔗 找到我 · Links
 
 <div align="center">
-  <a href="https://blog.gincode.icu"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://x.com/huanhuan_rao"><img src="https://img.shields.io/badge/X-@huanhuan__rao-000000?logo=x&logoColor=white"></a>&emsp;
   <a href="https://gitee.com/panther125/"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-red"></a>&emsp;
   <a href="https://www.cnblogs.com/panther9985/"><img src="https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2%E5%9B%AD-orange"></a>&emsp;
