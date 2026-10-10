@@ -17,6 +17,8 @@
 - 🏅&ensp;**ICPC 铜牌**，享受算法；用博客记录成长与思考
 - 📷&ensp;生活不只有代码：拍照、健身、旅游
 
+<br clear="all">
+
 ## 🚧 正在做 · Now
 
 | 项目 | 一句话 | 技术 |
@@ -43,6 +45,7 @@
 ## 🔗 找到我 · Links
 
 <div align="center">
+  <a href="https://ai-blog-kohl-kappa.vercel.app/"><img src="https://img.shields.io/badge/AiBlog-%E5%8D%9A%E5%AE%A2-blue"></a>&emsp;
   <a href="https://x.com/huanhuan_rao"><img src="https://img.shields.io/badge/X-@huanhuan__rao-000000?logo=x&logoColor=white"></a>&emsp;
   <a href="https://gitee.com/panther125/"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-red"></a>&emsp;
   <a href="https://www.cnblogs.com/panther9985/"><img src="https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2%E5%9B%AD-orange"></a>&emsp;
