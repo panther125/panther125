@@ -23,8 +23,9 @@
 
 | 项目 | 一句话 | 技术 |
 | --- | --- | --- |
+| [system-design-blueprint](https://github.com/panther125/system-design-blueprint) | 用户级 skill：把一句话想法 / PRD / 写歪的仓库，变成可落地的中文《系统设计文档》 | JavaScript |
+| [ictriskplatfrom](https://github.com/panther125/ictriskplatfrom) | 取数 → 加工 → 决策三层解耦、全程配置化的风控策略平台，不写代码即可上线策略 | Java / JS |
 | [skillhub](https://github.com/panther125/skillhub) | 把散落在本机各 AI 客户端的 Skill 收拢到一个桌面应用：扫描、浏览、启停、编辑、查冲突 | JavaScript |
-| [GinCode](https://github.com/panther125/GinCode) | CLI 形态的 AI agent 工具 | Java |
 | [syncChess](https://github.com/panther125/syncChess) | 废除"红先黑后"：每一回合同时、秘密落子 | TypeScript |
 | [AiBlog](https://github.com/panther125/AiBlog) | 我的博客站点 | Astro |
 
